@@ -1,7 +1,7 @@
 ﻿<DOCTYPE html>
-<html lang="ja"
+<html lang="ja">
     <head>
-        <meta charset="UYF-8">
+        <meta charset="UTF-8">
         <title>hello</title>
     </head>
     <body>
